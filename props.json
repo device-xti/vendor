@@ -1,8 +1,8 @@
 {
     "BRAND": "google",
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9 Pro XL",
-    "PRODUCT": "komodo",
-    "DEVICE": "komodo",
-    "FINGERPRINT": "google/komodo/komodo:14/AD1A.240905.004/12196292:user/release-keys"
+    "MODEL": "Pixel 6",
+    "PRODUCT": "oriole_beta",
+    "DEVICE": "oriole",
+    "FINGERPRINT": "google/oriole_beta/oriole:15/BP11.241025.006/12620009:user/release-keys"
 }
