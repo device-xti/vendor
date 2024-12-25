@@ -1,8 +1,8 @@
 {
     "BRAND": "google",
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 6",
-    "PRODUCT": "oriole_beta",
-    "DEVICE": "oriole",
-    "FINGERPRINT": "google/oriole_beta/oriole:15/BP11.241025.006/12620009:user/release-keys"
+    "MODEL": "Pixel 9 Pro",
+    "PRODUCT": "caiman_beta",
+    "DEVICE": "caiman",
+    "FINGERPRINT": "google/caiman_beta/caiman:Baklava/BP21.241018.009/12628839:user/release-keys"
 }
