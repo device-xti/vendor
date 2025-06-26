@@ -1,10 +1,8 @@
 {
-  "ID": "AD1A.240530.047.U1",
-  "BRAND": "google",
-  "DEVICE": "caiman",
-  "FINGERPRINT": "google/caiman/caiman:14/AD1A.240530.047.U1/12150698:user/release-keys",
-  "MANUFACTURER": "Google",
-  "MODEL": "Pixel 9 Pro",
-  "PRODUCT": "caiman",
-  "SECURITY_PATCH": "2024-08-05"
+    "BRAND": "google",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 6",
+    "PRODUCT": "oriole_beta",
+    "DEVICE": "oriole",
+    "FINGERPRINT": "google/oriole_beta/oriole:16/BP22.250325.012/13467521:user/release-keys"
 }
